@@ -20,7 +20,3 @@ for element in data_into_list:
             count+=1
 
 print(count)
-
-        
-
-
